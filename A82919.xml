@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order from the High Conrt [sic] of Parliament, which was read on Sunday last, in every church, being the 19. day of December, 1641. Subscribed by Alderman Soames, and Captain Ven, burgesses for the honourable City of London. Also the true coppie of a seditious paper, delivered in the pulpit to the minister of Christ church upon Suuday [sic], being the 19. of December, and afterwards presented to the lord major by Mr. Mamsbridge, reader of Christ-church, and petti-canon of Saint Pauls, London. Likewise the sermon which was preached in the church of St. Sepnlchres [sic] by a Brownnist on Sunday last, which caused a great disturbance, and how the author was committed. His text was taken out of the 1. of Revelations,  and the 14. verse. His head and his eares were white, as white wooll, and as snow, and his eyes were as a flame of fire. With the relation of the congregation of Brownists the same day at the signe of the Lock in fleerstreet [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82919</idno>
+            <idno type="STC">Wing E1684</idno>
+            <idno type="STC">Thomason E181_1</idno>
+            <idno type="STC">ESTC R1432</idno>
+            <idno type="EEBO-CITATION">99859644</idno>
+            <idno type="PROQUEST">99859644</idno>
+            <idno type="VID">111739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111739)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order from the High Conrt [sic] of Parliament, which was read on Sunday last, in every church, being the 19. day of December, 1641. Subscribed by Alderman Soames, and Captain Ven, burgesses for the honourable City of London. Also the true coppie of a seditious paper, delivered in the pulpit to the minister of Christ church upon Suuday [sic], being the 19. of December, and afterwards presented to the lord major by Mr. Mamsbridge, reader of Christ-church, and petti-canon of Saint Pauls, London. Likewise the sermon which was preached in the church of St. Sepnlchres [sic] by a Brownnist on Sunday last, which caused a great disturbance, and how the author was committed. His text was taken out of the 1. of Revelations,  and the 14. verse. His head and his eares were white, as white wooll, and as snow, and his eyes were as a flame of fire. With the relation of the congregation of Brownists the same day at the signe of the Lock in fleerstreet [sic].</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Bowden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms, verso of t.p.</note>
+                  <note>A series of news items. The complete text of the parliamentary order is not present.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111739:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:111739:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>AN ORDER From the High Court of PARLIAMENT, Which was read on Sunday laſt, in every Church, being the 19. Day of December, 1641.</p>
+            <p>Subſcribed by Alderman Soames, and Captain Ven, Burgeſſes for the ho<g ref="char:EOLhyphen"/>nourable City of London.</p>
+            <p>ALSO THE TRUE COPPIE OF A Seditious Paper, delivered in the Pulpit to the Miniſter of Chriſt church upon Sunday, being the 19. of December, And afterwards preſented to the Lord Major by Mr. Mamsbridge, Reader of Chriſt-church, and Petti-canon of Saint Pauls, London.</p>
+            <p>Likewiſe the Sermon which was preached in the church of St. Sepulchres by a Brownniſt on Sunday laſt, which cauſed a great diſturbance, and how the Author was committed. His text was taken out of the 1. of Revelations, and the 14. verſe. <q>
+                  <hi>His head and his eares were white, as white wooll, and as ſhow, and his eyes were as a flame of fire.</hi>
+               </q>
+            </p>
+            <p>With the Relation of the Congregation of Browniſts the ſame day at the ſigne of the Lock in fleetſtreet.</p>
+            <p>London, Printed for William Bowden, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:111739:2"/>
+            <!-- PDF PAGE 110 -->
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:111739:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>
+               <hi>The true COPY Of a ſeditious PAPER Delivered</hi> In the Pulpit to the Miniſter of Chriſt-Church vpon Sunday, being the 19. of December, 1641. and afterwards preſented to the Lord Major, by Mr. Mamsbridge, Reader of Chriſt-church.</head>
+            <p>COmfort ye, comfort ye my people, ſaith the Lord: but where is that comfort to be had; for there be traytors in the houſe
+<pb facs="tcp:111739:3"/>
+               <!-- PDF PAGE 111 -->of Iſrael, and Iudah is poſſeſſed with a region of Divels, Truth is baniſhed, and Piety is not to be found, Error is made an Emperous, and diſtracti<g ref="char:EOLhyphen"/>on his beloved Minion.</p>
+            <p>There is daily halting between opinions, Di<g ref="char:EOLhyphen"/>viſions are diſpearſed throughout the whole Land, the ſpouſe o Chriſt is in her mourning habit, her weeds bee deſolution and anguiſh of heart: why? becauſe the Sonr of men forſake her, and run a whoring after their owne inventi<g ref="char:EOLhyphen"/>ons, and are covered with deceit, &amp; yet have t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey a pretenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of goodneſſe, Religion is made their ſtalking horſe, which every Ploughman in thoſe dayes doth ride, ſhould J ſay almoſt to the death J ſhould not lye. If they perceive any way of ſet<g ref="char:EOLunhyphen"/>ling and bringing of it to a uniformity, out of zeale they ſind a hole in religions coat, which every Tradeſman forſooth, muſt have a hand in mending, or elſe it cannot bee well concerning what ſort of people my meaning is may eaſily be underſtood, J know you will ſay they bee Browniſts, who tooke their name from one Browne of <hi>Corpus Chriſti</hi> Colledge in <hi>Cambridg,</hi> this ſort of people were once but a handfull, and then they creeped in corners, for fear they ſhuld be diſcovered, but now they are like to the E<g ref="char:EOLhyphen"/>gyptian leaſt they overthrow the whole Land.</p>
+            <p>They are now growne to that height of im<g ref="char:EOLhyphen"/>pudencie, that it is a common thing for them to command the preacher what he ſhall lay, and no more.</p>
+            <p>
+               <pb facs="tcp:111739:3"/>
+               <!-- PDF PAGE 111 -->
+A company upon the Sabbath day ſeeing the Miniſter have a ſurplice on, they moſt prophane miſcreants plucked it off from him, and in the Church raiſed war againſt the King of heaven, and every one tryumphed, as if they had got a greater victory than ever <hi>Alexand<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Great</hi> could attaine unto, nay an old woman which could ſcarce ſee, like a young <hi>Amazonian</hi> boa<g ref="char:EOLhyphen"/>ſted, ſaying, that with this hand did I plucke the babyloniſh garment from off his backe.</p>
+            <p>More villany hath bin by them lately acted, conſiſting of ſuch matter, as is ſufficient to make a good Chriſtians haire to ſtand upright.</p>
+            <p>Upon ſunday being the 19. day of Decemb. the Miniſter at Chriſt-church, <hi>London,</hi> going to pray for the ſicke, and to deſire the Congregation to joyne with him: hee had a Note delivered unto him, inſtead of the name and place of ſome viſi<g ref="char:EOLhyphen"/>ted body, to this effect.</p>
+            <p>Sir be pleaſed to direct your prayers to God, and move the Congregation of Saints here met, to joyne with you, that hee would be pleaſed to aſſiſt the Apprentices and others with ſtrength and powre &amp; to bleſſe their undertakings, which, are ſpeedily to root out ſuperſtition out of this and all other Churches, and to extirpate all In<g ref="char:EOLhyphen"/>novations of the Biſhops, and Clergie.</p>
+            <pb facs="tcp:111739:4"/>
+            <!-- PDF PAGE 112 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:111739:4"/>
+            <!-- PDF PAGE 112 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:111739:5"/>
+            <!-- PDF PAGE 113 -->
+            <p>This paper after Sermon was finiſhed, and was carryed by Mr. Mamsbridge, Reader of <hi>Chriſt-Church,</hi> and Petti canon of the Church of St. <hi>Pauls,</hi> unto the Lord Major.</p>
+            <div type="part">
+               <head>Concerning St. Sepulchres Church, <date>Decemb. 19.</date>
+               </head>
+               <p>Diſturbance alſo upon the ſame day was in the Church of St. Sepulchres, <hi>London;</hi> for Sermon being finiſhed in the Afternoone, there ſtood up a fellow in the Maſters gallery, who ſpake after this manner.</p>
+               <p>Men and Brethren give attenſion unto me; for you ſhall find it thus written, in the 2. of the Re<g ref="char:EOLhyphen"/>velations, and the 14 verſe, <hi>But I have a few things againſt you all, &amp;c.</hi>
+               </p>
+               <p>Add after he had read the words of his text, he went about to goe on, but the people being reli<g ref="char:EOLhyphen"/>giouſly bent, ſtopped his mouth with a <hi>ne plus ultra,</hi> carrying him out of the Church, who af<g ref="char:EOLhyphen"/>terwards was committed, and he made no Ser<g ref="char:EOLhyphen"/>mon at all.</p>
+            </div>
+            <div type="part">
+               <head>A great tumult in Fleet-ſtreet.</head>
+               <p>Vpon the ſame day alſo, there was a <hi>Congre<g ref="char:EOLhyphen"/>gation</hi> of ſedition ſowers gathered together at the ſigne of the Locke in Fleet-ſtreet, who being diſ<g ref="char:EOLhyphen"/>covered, the Conſtable was fetched, who was ac<g ref="char:EOLhyphen"/>companied with ſome watch-men, went up to
+<pb facs="tcp:111739:5"/>
+                  <!-- PDF PAGE 113 -->the place whereas their Teacher was prating, his Pulpit was made of a halfe tub, hauing a blacke velvet cloath hanging downe: the Conſtable ſpake ſome certaine words to their Parrot, who as wiſely as he could, made anſwer againe, the Conſtable bid him pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceed, and for a ſpace left them,</p>
+               <p>But about evening a great company was ga<g ref="char:EOLhyphen"/>thered together, as in an uproare, before the houſe where the Browniſts were, ſome of whom ran in<g ref="char:EOLhyphen"/>to one roome, ſome into another: but the Con<g ref="char:EOLhyphen"/>ſtable comming, all thoſe which he tooke hee committed. I pray that all of the ſame faction may be ſerved ſo, that they may daily have whip<g ref="char:EOLhyphen"/>ping cheere at Chriſtmas.</p>
+            </div>
+            <div type="part">
+               <head>A ſtory of a cheating Puritanicall, or rather hypo<g ref="char:EOLhyphen"/>criticall Cut-purſe.</head>
+               <p>At the Church in Milke-ſtreet was a very great Aſſembly: it is the uſuall church where Mr. <hi>Caſe</hi> uſeth to preach: whither came a ſee<g ref="char:EOLhyphen"/>ming religious man, with a bible under his arm, but ſeeing the perſon which ſometimes prea<g ref="char:EOLhyphen"/>cheth, there hee made bold to borrow 9<g ref="char:punc">▪</g> pounds ten ſhillings, and a watch out of his pocket<g ref="char:punc">▪</g> but was taken doing the deed, and he gave the money and watch to a boy, his confederate, who carryed it away: but for his part, hee was committed to the Poultry Counter, it being about dinner time, where <hi>I</hi> will leave him.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:111739:6"/>
+               <!-- PDF PAGE 114 -->
+               <head>An Order from the High Court of Parliament.</head>
+               <p>THere was alſo an order read in every church the ſame day from the <hi>Parliament</hi> houſe, for a Faſt to be kept next Wedneſday,</p>
+               <closer>
+                  <signed>Subſcribed by Alderman <hi>Soames,</hi> and Captaine<hi>Ven, Burgeſſes for the Honourable City of</hi> London,</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>per me Iohannem Cuffe. Cap: Do: Epi: Vtop.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
